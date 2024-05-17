@@ -320,10 +320,8 @@ const Home1 = (props) => {
             />
             <img
               alt="image"
-              sizes="(min-width: 992px) 1200px, (min-width: 768px) 800px, 480px"
-              src="/external/imgs/dsc_5669-1500w.webp"
+              src="https://raw.githubusercontent.com/prthvbox/tk20810oa78/main/Picstash/DSC_5669.jpg"
               loading="eager"
-              srcSet="external/imgs//dsc_5669-1500w.webp 1200w, external/imgs/dsc_5669-tablet.webp 800w, external/imgs/dsc_5669-mobile.webp 480w"
               className="home1-image24"
             />
             <iframe
